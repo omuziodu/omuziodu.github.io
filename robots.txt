@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://omuziodu.github.io/sitemap_index.omuziodu
